@@ -1,0 +1,20 @@
+{
+    "name": "jivan/web-services-ivandevappweb",
+    "type": "project",
+    "require": {
+        "eftec/bladeone": "^4.2",
+        "vlucas/phpdotenv": "^5.4",
+        "google/apiclient": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jivan\\WebServicesIvandevappweb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iván",
+            "email": "jivanrod@gmail.com"
+        }
+    ]
+}
